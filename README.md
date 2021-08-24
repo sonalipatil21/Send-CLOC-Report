@@ -9,7 +9,7 @@ The repository is processed with CLOC and the output is placed into a CSV file. 
 
 ## Requirements
  Python 3.7.4 or later
-  - An interpreted high-level general-purpose programming language
+  - An interpreted high-level general-purpose programming language.
   - Python 3 installation and documentation: https://www.python.org/downloads/
   - Python executable must be on system PATH
   
@@ -52,5 +52,3 @@ Enter branch: master
    1. Invalid repository url (not following regular expression format of Github repository) prompts entry for repository url until valid
 5. Enter branch name
    1. Invalid branch name (not following regular expression format of Github branch names) prompts entry for branch name until valid
-
-
