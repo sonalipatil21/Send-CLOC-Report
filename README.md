@@ -13,12 +13,18 @@ The repository is processed with CLOC and the output is placed into a CSV file. 
   - Python 3 installation and documentation: https://www.python.org/downloads/
   - Python executable must be on system PATH
   
- pip 20.0.1 or later
+ Pip 20.0.1 or later
   - Package management system used to install and manage software packages/libraries written in Python.
   - Pip installation and documentation: https://pip.pypa.io/en/stable/installation/
   
  GitPython 3.1.10 or later 
   - A python library used to interact with Git repositories
   - GitPython installation and documentation: https://gitpython.readthedocs.io/en/stable/
+
+Email Credentials
+  - Sender: Gmail account credentials (email address and password)
+  - Receiver: Any email service credentials (email address only)
+
+
 
 
