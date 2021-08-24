@@ -43,4 +43,14 @@ Enter url: https://github.com/AlDanial/cloc.git
 ---Enter branch name within repository---
 Enter branch: master
 ```
+1. Enter the sender email address
+   1. Invalid email address (not following regular expression format of email address) prompts entry for sender email address until valid
+2. Enter the sender password
+3. Enter the receiver email address
+   1. Invalid email address (not following regular expression format of email address) prompts entry for receiver email address until valid 
+4. Enter url of repository
+   1. Invalid repository url (not following regular expression format of Github repository) prompts entry for repository url until valid
+5. Enter branch name
+   1. Invalid branch name (not following regular expression format of Github branch names) prompts entry for branch name until valid
+
 
