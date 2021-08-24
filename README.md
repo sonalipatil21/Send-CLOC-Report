@@ -8,14 +8,14 @@ The user is then prompted for a receiver email address for where to the send the
 The repository is processed with CLOC and the output is placed into a CSV file. This CSV file is sent as an attachment from the sender email address to the specified receiver email address.
 
 ## Requirements
- - Python 3.7.4 or later
+ Python 3.7.4 or later
   - An interpreted high-level general-purpose programming language
   - Python 3 installation and documentation: https://www.python.org/downloads/
   - Python executable must be on system PATH
- - pip 20.0.1 or later
+ pip 20.0.1 or later
   - Package management system used to install and manage software packages/libraries written in Python.
   - Pip installation and documentation: https://pip.pypa.io/en/stable/installation/
- - GitPython 3.1.10 or later 
+ GitPython 3.1.10 or later 
   - A python library used to interact with Git repositories
   - GitPython installation and documentation: https://gitpython.readthedocs.io/en/stable/
 
