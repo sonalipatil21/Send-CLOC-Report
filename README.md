@@ -26,7 +26,7 @@ Email Credentials
   - Receiver: Any email service credentials (email address only)
 
 ## Usage
-``` Python
+``` bash
 C:\Users\Sonali> python send_cloc_report.py
 ---Enter sender credentials---
 Enter email: sender@gmail.com
