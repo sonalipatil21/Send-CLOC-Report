@@ -25,6 +25,22 @@ Email Credentials
   - Sender: Gmail account credentials (email address and password)
   - Receiver: Any email service credentials (email address only)
 
+## Usage
+```
+C:\Users\Sonali> python send_cloc_report.py
+---Enter sender credentials---
+Enter email: sender@gmail.com
+ sender@gmail.com is not a valid email address. _*Output for invalid email address*_
+Enter email: sender@gmail.com
+Enter email password: 
 
+---Enter receiver credentials---
+Enter email: receiver@gmail.com
 
+---Enter url of repository---
+Enter url: https://github.com/AlDanial/cloc.git
+
+---Enter branch name within repository---
+Enter branch: master
+```
 
