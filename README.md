@@ -26,11 +26,11 @@ Email Credentials
   - Receiver: Any email service credentials (email address only)
 
 ## Usage
-```
+``` Python
 C:\Users\Sonali> python send_cloc_report.py
 ---Enter sender credentials---
 Enter email: sender@gmail.com
- sender@gmail.com is not a valid email address. _*Output for invalid email address*_
+ sender@gmail.com is not a valid email address. Output for invalid email address
 Enter email: sender@gmail.com
 Enter email password: 
 
