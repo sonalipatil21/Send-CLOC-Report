@@ -52,3 +52,14 @@ Enter branch: master
    1. Invalid repository url (not following regular expression format of Github repository) prompts entry for repository url until valid
 5. Enter branch name
    1. Invalid branch name (not following regular expression format of Github branch names) prompts entry for branch name until valid
+
+## Output
+``` bash
+C:\Send-CLOC-Report\> python send_cloc_report.py
+Creating CLOC report...
+cloc-master_08-25-2021.csv
+Creating CSV file...
+Emailing CLOC report to a@gmail.com...
+```
+CSV Output
+![Screenshot 2021-08-25 081402](https://user-images.githubusercontent.com/44443718/130817410-c9d677e0-07e8-4c7c-b924-1a52c46882ae.png)
